@@ -39,23 +39,23 @@
 		B3C9079E1455D30E006099D5 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		B3C907A01455D30E006099D5 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		B3C907A21455D30E006099D5 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		B3C907A61455D30E006099D5 /* jsonframeworkharness-Info.plist */ = {isa = PBXFileReference; path = "jsonframeworkharness-Info.plist"; sourceTree = "<group>"; };
+		B3C907A61455D30E006099D5 /* jsonframeworkharness-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "jsonframeworkharness-Info.plist"; sourceTree = "<group>"; };
 		B3C907A81455D30E006099D5 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		B3C907AA1455D30E006099D5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		B3C907AC1455D30E006099D5 /* jsonframeworkharness-Prefix.pch */ = {isa = PBXFileReference; path = "jsonframeworkharness-Prefix.pch"; sourceTree = "<group>"; };
-		B3C907AD1455D30E006099D5 /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		B3C907AC1455D30E006099D5 /* jsonframeworkharness-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "jsonframeworkharness-Prefix.pch"; sourceTree = "<group>"; };
+		B3C907AD1455D30E006099D5 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		B3C907AE1455D30E006099D5 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		B3C907B11455D30E006099D5 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
 		B3C907B41455D30E006099D5 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
-		B3C907B61455D30E006099D5 /* MainViewController.h */ = {isa = PBXFileReference; path = MainViewController.h; sourceTree = "<group>"; };
+		B3C907B61455D30E006099D5 /* MainViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
 		B3C907B71455D30E006099D5 /* MainViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
-		B3C907B91455D30E006099D5 /* FlipsideViewController.h */ = {isa = PBXFileReference; path = FlipsideViewController.h; sourceTree = "<group>"; };
+		B3C907B91455D30E006099D5 /* FlipsideViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FlipsideViewController.h; sourceTree = "<group>"; };
 		B3C907BA1455D30E006099D5 /* FlipsideViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FlipsideViewController.m; sourceTree = "<group>"; };
 		B3C907C11455D30E006099D5 /* jsonframeworkharnessTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = jsonframeworkharnessTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B3C907C21455D30E006099D5 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		B3C907CA1455D30E006099D5 /* jsonframeworkharnessTests-Info.plist */ = {isa = PBXFileReference; path = "jsonframeworkharnessTests-Info.plist"; sourceTree = "<group>"; };
+		B3C907CA1455D30E006099D5 /* jsonframeworkharnessTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "jsonframeworkharnessTests-Info.plist"; sourceTree = "<group>"; };
 		B3C907CC1455D30E006099D5 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		B3C907CE1455D30E006099D5 /* jsonframeworkharnessTests.h */ = {isa = PBXFileReference; path = jsonframeworkharnessTests.h; sourceTree = "<group>"; };
+		B3C907CE1455D30E006099D5 /* jsonframeworkharnessTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = jsonframeworkharnessTests.h; sourceTree = "<group>"; };
 		B3C907CF1455D30E006099D5 /* jsonframeworkharnessTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = jsonframeworkharnessTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
